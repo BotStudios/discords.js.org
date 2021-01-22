@@ -1,6 +1,5 @@
----
-layout: default
----
+### [Home](/) 
+  ### [Docs](/docs)
   
   
 
