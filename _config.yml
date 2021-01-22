@@ -1,3 +1,4 @@
+remote_theme: "dracula/gh-pages"
 title: Discord Sender
 description: Discord-Sender, An Npm Package That Allow You To Send Message To Discord Easily By Using ARandomBot API
 locale:       "en"
