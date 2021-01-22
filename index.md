@@ -1,5 +1,5 @@
 ### [Home](/) 
-  -  [Docs](/docs)
+  -  #### [Docs](/docs)
   
  <p>
     <a href="https://www.npmjs.com/package/discord-sender"><img src="https://img.shields.io/npm/v/discord-sender.svg?maxAge=3600" alt="NPM version" /></a>
@@ -22,3 +22,12 @@
 
 ``` const sender = require('discord-sender')```
 
+-------------
+
+### What's New ?
+
+- 19 Jan 2021
+  - Added New Feature [Send Message Thru A Random Bot - Amber](#Send-Message-Thru-A-Random-Bot).
+  - Changed webhook structures.
+  
+-------------
