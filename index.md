@@ -1,6 +1,6 @@
 ### [Home](/) 
   -  #### [Docs](/docs)
-  
+  -  #### [API](#api)
  <p>
     <a href="https://www.npmjs.com/package/discord-sender"><img src="https://img.shields.io/npm/v/discord-sender.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/discord-sender"><img src="https://img.shields.io/npm/dt/discord-sender.svg?maxAge=3600" alt="NPM downloads" /></a>
