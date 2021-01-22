@@ -1,16 +1,11 @@
-title: Joe
+title: Discord Sender
 description: I love creating cool stuff and useless stuff. In this page, I will introduce some of my projects to you.
-baseurl:      ""
-paginate:     1
 locale:       "en"
 
 author:
-  name:       Joe
-  url:        https://joe.js.org
+  name:       Discord Sender
+  url:        https://sender.js.org
 
-gems:
-  - jekyll-paginate
----
 permalink: /404.html
 ---
 github:
