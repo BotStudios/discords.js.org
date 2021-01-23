@@ -18,11 +18,13 @@
 
 
 
-## Install 
+## Install And Plugin
 
-``` npm i discord-sender ```
+```
+npm i discord-sender
 
-``` const sender = require('discord-sender')```
+const sender = require('discord-sender')
+```
 
 -------------
 
