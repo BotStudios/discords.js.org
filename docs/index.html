@@ -1,2 +1,10 @@
 <iframe id="docs" src="https://botstudios.github.io/DiscordSender/" height="100%" frameborder="0" width="100%"></iframe>
-<script>document.getElementById("docs").contentWindow.location.href</script>
+<script>document.getElementById("docs").contentWindow.location.href
+document.getElementById('docs').src
+ $('body').on('click','#button', function(){
+   var url = document.getElementById('docs').src;
+   var tabOrWindow = window.open(url, '_blank');
+   tabOrWindow.focus();
+ });
+</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
