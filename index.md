@@ -30,8 +30,9 @@ const sender = require('discord-sender')
 
 ### API 
 
-With this javascript plugin, you will be able to use [discord-sender](https://discord.is-a.dev) remotely on browser without having node and npm installed
+With this javascript plugin, you will be able to use [discord-sender](https://discord.is-a.dev) remotely on browser without having [nodejs](https://nodejs.org) installed
 ```
 <script src="https://discords.js.org/discord.min.js"></script>
 ```
+
 
