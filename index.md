@@ -34,6 +34,7 @@ const sender = require('discord-sender')
 
 You may use our API easily with our official [npm package](https://npmjs.com/discord-sender) 
 
+`npm i discord-sender`
 
 ----------------------
 #### Web Browser
