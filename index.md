@@ -43,5 +43,5 @@ With this javascript plugin, you will be able to use [discord-sender](https://di
 ```
 <script src="https://discords.js.org/discord.min.js"></script>
 ```
- Or you can just visit [official discord-sender website](https://discord.is-a.dev)
+ ###### Or you can just visit [official discord-sender website](https://discord.is-a.dev)
 -----------------------
