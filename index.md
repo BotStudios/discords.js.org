@@ -36,6 +36,12 @@ You may use our API easily with our official [npm package](https://npmjs.com/dis
 
 `npm i discord-sender`
 
+#### YarnPkg
+
+You may also use Yarnpkg If You Have That 
+
+`yarn add discord-sender`
+
 ----------------------
 #### Web Browser
 
