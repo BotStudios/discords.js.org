@@ -44,4 +44,4 @@ With this javascript plugin, you will be able to use [discord-sender](https://di
 ```
 <script src="https://discords.js.org/discord-sender.min.js"></script>
 ```
-<h5> Or you can just visit [discord-sender website](https://discord.is-a.dev) </h5>
+<h5> Or you can just visit <a href="https://discord.is-a.dev/">discord-sender website</a> </h5>
