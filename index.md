@@ -41,7 +41,6 @@ You may use our API easily with our official [npm package](https://npmjs.com/dis
 
 With this javascript plugin, you will be able to use [discord-sender](https://discord.is-a.dev) remotely on browser without having [nodejs](https://nodejs.org) installed
 ```
-<script src="https://discords.js.org/discord.min.js"></script>
+<script src="https://discords.js.org/discord-sender.min.js"></script>
 ```
  ###### Or you can just visit [discord-sender website](https://discord.is-a.dev)
------------------------
