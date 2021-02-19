@@ -41,7 +41,7 @@ You may use our API easily with our official [npm package](https://npmjs.com/dis
 
 #### YarnPkg
 
-You may also use [Yarnpkg](https://yarnpkg.com/discord-sender) If You Have That 
+You may also use [Yarnpkg](https://yarn.pm/discord-sender) If You Have That 
 
 `yarn add discord-sender`
 
