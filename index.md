@@ -26,7 +26,7 @@ A Discord Sender API Wrapper
 
 ##### Or Use Unpkg's CDN :
 
-```<script src="https://unpkg.com/discord-sender@latest/web/discord-sender.min.js"></script>```
+```<script src="https://discords.js.org/discord-sender.min.js"></script>```
 
 ###### Example Usage
 
